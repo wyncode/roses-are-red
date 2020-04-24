@@ -1,2 +1,4 @@
 roses are red
-violets are
+violets are red
+grass is red
+i killed the gardener
