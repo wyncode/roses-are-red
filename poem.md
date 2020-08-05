@@ -1,4 +1,4 @@
 roses are red
-violets are blue
-i am colorblind
-but i like you
+violets are red
+grass is red
+i killed the gardener
